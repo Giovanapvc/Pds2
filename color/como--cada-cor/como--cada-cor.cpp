@@ -1,0 +1,82 @@
+// como-é-cada-cor.cpp
+
+#include "color.hpp"
+
+using namespace color;
+using namespace style;
+
+int main() {
+	cout << "fBLACK: ";
+	coutc("text", fBLACK);
+	cout << "\nfRED: ";
+	coutc("text", fRED);
+	cout << "\nfGREEN: ";
+	coutc("text", fGREEN);
+	cout << "\nfYELLOW: ";
+	coutc("text", fYELLOW);
+	cout << "\nfBLUE: ";
+	coutc("text", fBLUE);
+	cout << "\nfMAGENTA: ";
+	coutc("text", fMAGENTA);
+	cout << "\nfCYAN: ";
+	coutc("text", fCYAN);
+	cout << "\nfWHITE: ";
+	coutc("text", fWHITE);
+	cout << "\nfBLACKs: ";
+	coutc("text", fBLACKs);
+	cout << "\nfREDs: ";
+	coutc("text", fREDs);
+	cout << "\nfGREENs: ";
+	coutc("text", fGREENs);
+	cout << "\nfYELLOWs: ";
+	coutc("text", fYELLOWs);
+	cout << "\nfBLUEs: ";
+	coutc("text", fBLUEs);
+	cout << "\nfMAGENTAs: ";
+	coutc("text", fMAGENTAs);
+	cout << "\nfCYANs: ";
+	coutc("text", fCYANs);
+	cout << "\nfWHITEs: ";
+	coutc("text", fWHITEs);
+	cout << "\nbBLACK: ";
+	coutc("text", bBLACK);
+	cout << "\nbRED: ";
+	coutc("text", bRED);
+	cout << "\nbGREEN: ";
+	coutc("text", bGREEN);
+	cout << "\nbYELLOW: ";
+	coutc("text", bYELLOW);
+	cout << "\nbBLUE: ";
+	coutc("text", bBLUE);
+	cout << "\nbMAGENTA: ";
+	coutc("text", bMAGENTA);
+	cout << "\nbCYAN: ";
+	coutc("text", bCYAN);
+	cout << "\nbWHITE: ";
+	coutc("text", bWHITE);
+	cout << "\nbBLACKs: ";
+	coutc("text", bBLACKs);
+	cout << "\nbREDs: ";
+	coutc("text", bREDs);
+	cout << "\nbGREENs: ";
+	coutc("text", bGREENs);
+	cout << "\nbYELLOWs: ";
+	coutc("text", bYELLOWs);
+	cout << "\nbBLUEs: ";
+	coutc("text", bBLUEs);
+	cout << "\nbMAGENTAs: ";
+	coutc("text", bMAGENTAs);
+	cout << "\nbCYANs: ";
+	coutc("text", bCYANs);
+	cout << "\nbWHITEs: ";
+	coutc("text", bWHITEs);
+	cout << "\nsReset: ";
+	coutc("text", sRESET);
+	cout << "\nsBOLD: ";
+	coutc("text", sBOLD);
+	cout << "\nsUNDERLINE: ";
+	coutc("text", sUNDERLINE);
+	cout << "\nsINVERSE: ";
+	coutc("text", sINVERSE);
+	return 0;
+}

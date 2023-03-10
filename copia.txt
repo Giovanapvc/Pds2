@@ -1,0 +1,24 @@
+
+Criatura:Peixe
+Peixe:Peixe
+Criatura:Peixe
+Peixe:Peixe
+Criatura:Polvo
+Polvo:Polvo
+=============
+Aquario Info:
+Info: Peixe
+	Peso: 987.5kg
+	Sexo: F
+Info: Peixe
+	Peso: 1000kg
+	Sexo: M
+Info: Polvo
+	QI: 126
+=============
+~Peixe:Peixe
+~Criatura:Peixe
+~Peixe:Peixe
+~Criatura:Peixe
+~Polvo:Polvo
+~Criatura:Polvo
